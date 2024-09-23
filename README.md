@@ -11,7 +11,7 @@ If you rename the parent folder to something else, adjust all occurrences of the
 Make sure that any directories used in the code match the structure of your renamed folders.
 By following these steps, you can ensure that the code runs smoothly in your environment.
 
-Instructions for Running the Code
+*Instructions for Running the Code**
 Upload Raw Mass Spectrometry Data:
 
 Open the Proteomic_Data_Perseus_to_df.ipynb notebook in Google Colab.
