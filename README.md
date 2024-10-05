@@ -4,7 +4,7 @@ Methods for Predicting the protein corona using machine learning. Utilizes Nanop
 **Running/Using this Code**
 This code is structured to be run on Google Colab (free version). The project is organized within a parent folder named after my last name ("Vijgen"), but you are free to rename this folder according to your preference.
 - You will need to ensure that the data_prep_functions.py is linked to the correct directory, or else it cannot be accessed (necessary for RFC.ipynb and RFR.ipynb).
-- #### Depending on how you title your code, all of the linked file directories will need to be adjusted. If using Google Coloab, simply right-click on the file and select 'copy path' to ensure correctly path is selected and then pasted in the code where applicable.
+- #### Depending on how you title your code, all of the linked file directories will need to be adjusted. If using Google Coloab, simply right-click on the file and select 'copy path' to ensure correct path is selected and then pasted in the code where applicable.
 
 **Important:** If you choose to rename the parent folder or any subdirectories, please ensure that you update the file paths in the code accordingly. This will allow the code to locate the necessary files without any issues.
 
